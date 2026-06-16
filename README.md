@@ -2,6 +2,12 @@
 
 A simple Job Application Tracker built using Vanilla JavaScript, HTML, and CSS. The application helps users keep track of job applications by storing company details, role information, and application status in an interactive dashboard.
 
+
+## Live Demo 
+https://job-tracker-two-murex.vercel.app/
+
+<img width="1281" height="902" alt="image" src="https://github.com/user-attachments/assets/32905e81-8ad6-406a-9809-bf2f148b5ed7" />
+
 <img width="1245" height="878" alt="image" src="https://github.com/user-attachments/assets/218c34ff-d7e3-46c4-9052-ed8166c560bf" />
 
 
